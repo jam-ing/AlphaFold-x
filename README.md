@@ -1,2 +1,2 @@
 # AlphaFold-x
-Exploring AlphaFold with Transformers
+Exploring AlphaFold (casp13) with Transformers
